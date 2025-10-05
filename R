@@ -105,10 +105,9 @@
       Perfect for both men and women who love a bold, classy look.
     </em></p>
     <div class="price">200 EGP</div>
-    <!-- لينك واتساب مصحح -->
-    <a href="https://wa.me/201000000000?text=%D8%A3%D9%86%D8%A7%20%D9%85%D9%87%D8%AA%D9%85%20%D8%A8%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9%20%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D8%A1" class="btn">اطلب الآن</a>
+    <!-- لينك واتساب شغال برقمك -->
+    <a href="https://wa.me/201067892584?text=%D8%A3%D9%86%D8%A7%20%D9%85%D9%87%D8%AA%D9%85%20%D8%A8%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9%20%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D8%A1" class="btn">اطلب الآن</a>
   </div>
 
-  <footer>© 2025 𝗬𝗼𝘂𝘀𝗲𝗳 𝗧𝗶𝗺𝗲𝗽𝗶𝗲𝗰𝗲𝘀 | Designed by Yousef</footer>
-</body>
+  <footer>© 2025 𝗬𝗼𝘂𝘀𝗲𝗳 𝗧𝗶𝗺</body>
 </html>
